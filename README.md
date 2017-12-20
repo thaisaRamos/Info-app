@@ -1,5 +1,5 @@
 # Info-app
-App for getting user information using Facebook API
+App for getting user information from Facebook using JavaScript SDK and PHP SDK 
 
 <h3> Setup </h3>
 
